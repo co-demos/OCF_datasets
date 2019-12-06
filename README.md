@@ -83,7 +83,7 @@ There are several notebooks we used to get the data back from APIs, copy it to l
 ------------
 #### inspirations / ressources 
 
-- ENTHIC project : [http://api.enthic.fr/documentation/index.html](http://api.enthic.fr/documentation/index.html)
+- ENTHIC project : [http://api.enthic.fr/documentation/index.html](http://api.enthic.fr/documentation/index.html) and their [github](https://github.com/phe-sto/enthic)
 
 
 ------------
