@@ -9,6 +9,11 @@ so it is possible to rebuild the datasets and reuse them for other purposes
 The scripts are storing json as json files (and csv files soon ?) to the corresponding folders in `/datasets`
 The datasets arre split into chunks corresponding to a quantity oif n pages scraped
 
+----------
+#### notebooks
+
+to run the notebooks just open this foldeer and run : `jupyter notebook`
+(you need jupyter to do so indeed)
 
 ----------
 #### OCF sources 
