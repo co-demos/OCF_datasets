@@ -70,6 +70,12 @@ jupyter notebook
 
 
 ------------
+#### inspirations / ressources 
+
+- ENTHIC project : [http://api.enthic.fr/documentation/index.html](http://api.enthic.fr/documentation/index.html)
+
+
+------------
 #### TEAM
 
 - Leonard : [Leonarf](https://github.com/leonarf)
