@@ -1,18 +1,26 @@
 ### OPEN CORPORATE FACTS / scripts & data
 -------------------
 
-This is a repo where we could gather scripts and copies of datasets
+This is a repo where we could gather scripts and copies of OCF datasets
 
-The Python notebooks scripts in the repo aim to request the API platform instance put in place by Leonard 
-so it is possible to rebuild the datasets and reuse them for other purposes
+The Python notebooks scripts in the repo aim to request the API platform instance put in place by Leonard, get the JSON and save them into .json files, 
+so it is possible to rebuild the datasets and reuse them for other purposes...
 
-The scripts are storing json as json files (and csv files soon ?) to the corresponding folders in `/datasets`
-The datasets arre split into chunks corresponding to a quantity oif n pages scraped
+The scripts are storing the json files (and csv files soon ?) to the corresponding folders in `/datasets`
+The datasets arre split into chunks corresponding to a quantity oif n pages scraped : 
+
+- the corporation data in `./datasets/corporations/`
+- the account results in `./datasets/account_results/`
 
 ----------
 #### notebooks
 
-to run the notebooks just open this foldeer and run : `jupyter notebook`
+to run the notebooks just open this foldeer and run : 
+
+```bash
+jupyter notebook
+```
+
 (you need jupyter to do so indeed)
 
 ----------
@@ -33,5 +41,5 @@ to run the notebooks just open this foldeer and run : `jupyter notebook`
 #### TEAM
 
 - Leonard 
-- JPy 
+- Julien : [JPy](https://github.com/JulienParis)  
 
