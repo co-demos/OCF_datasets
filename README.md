@@ -70,6 +70,6 @@ jupyter notebook
 ------------
 #### TEAM
 
-- Leonard 
+- Leonard : [Leonarf](https://github.com/leonarf)
 - Julien : [JPy](https://github.com/JulienParis)  
 
