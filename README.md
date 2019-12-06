@@ -35,6 +35,16 @@ ipython kernel install --user --name=venv
 
 ``` 
 
+For some notebooks you'll need to load and access variables stored in a hidden/ignored file `.env`
+So just create this file containing those secret variables by copying the `example.env` file and rename it `.env`
+Or type :
+```bash
+touch .env
+# or
+nano .env
+``` 
+
+
 to run the notebooks just open this foldeer and run : 
 
 ```bash
