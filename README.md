@@ -15,6 +15,26 @@ The datasets arre split into chunks corresponding to a quantity oif n pages scra
 ----------
 #### notebooks
 
+You can install all the notebooks dependencies following those steps : 
+
+```bash
+# install python virtual env
+pip install virtualenv
+virtualenv venv
+
+# activate virtual env
+source venv/bin/activate
+
+# install dependencies in venv
+pip install python-dotenv
+# or
+pip install -r requirements.txt
+
+# install a kernel of a jupyter notebook in venv
+ipython kernel install --user --name=venv
+
+``` 
+
 to run the notebooks just open this foldeer and run : 
 
 ```bash
