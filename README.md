@@ -12,6 +12,11 @@ The datasets are split into chunks corresponding to a quantity of n pages scrape
 - the "corporations" data in `./datasets/corporations/`
 - the "account results" data in `./datasets/account_results/`
 
+
+Note :
+
+For compatibility purposes the `.csv` files created use a tab (`|`) as separator...
+
 ----------
 #### install jupyter notebooks
 
