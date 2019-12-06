@@ -7,7 +7,7 @@ The Python notebooks scripts in the repo aim to request the API platform instanc
 so it is possible to rebuild the datasets and reuse them for other purposes...
 
 The scripts are storing the json files (and csv files soon ?) to the corresponding folders in `/datasets`
-The datasets arre split into chunks corresponding to a quantity oif n pages scraped : 
+The datasets are split into chunks corresponding to a quantity of n pages scraped : 
 
 - the corporation data in `./datasets/corporations/`
 - the account results in `./datasets/account_results/`
@@ -45,7 +45,7 @@ nano .env
 ``` 
 
 
-to run the notebooks just open this foldeer and run : 
+to run the notebooks just open this folder and run : 
 
 ```bash
 jupyter notebook
