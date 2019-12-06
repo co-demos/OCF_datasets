@@ -5,7 +5,7 @@ This is a repo where we could gather scripts and copies of OCF datasets
 
 The Python / Jupyter notebooks scripts in the repo aim to request the API platform instance put in place by Leonard, get the JSON and save them into .json files, so it is possible to rebuild the datasets and reuse them for other purposes...
 
-The scripts are storing the json files (and csv files soon ?) to the corresponding folders in `/datasets`
+The scripts are storing the json and csv files to the corresponding folders in `/datasets`.
 
 The datasets are split into chunks corresponding to a quantity of n pages scraped : 
 
@@ -64,7 +64,7 @@ There are several notebooks we used to get the data back from APIs, copy it to l
 
 - get data from Leonard's API Platform : `load OCF data to file-TEST 3.ipynb`
 - split big files into several files : `split_big_json_files.ipynb`
-- load files into Pandas and play with it / add docs to mongo DB : `JSON files to API or DB.ipynb`
+- load files into Pandas and play with it / export them as csv / insert docs to mongo DBs : `JSON files to API or DB.ipynb`
 
 ----------
 #### OCF sources 
